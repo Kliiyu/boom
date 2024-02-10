@@ -1,1 +1,1 @@
-[(./python.png)]
+### <img src="[https://raw.githubusercontent.com/whamer100/whamer100/master/KotoWave.png](https://raw.githubusercontent.com/Kliiyu/Kliiyu/main/python.png)https://raw.githubusercontent.com/Kliiyu/Kliiyu/main/python.png" height="317" valign="text-bottom">
