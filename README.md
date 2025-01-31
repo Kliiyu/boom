@@ -17,8 +17,6 @@
 
 <p align="left">Hello World!!</p>
 
-<img align="right" height="150" src="https://media1.tenor.com/m/w5EFZpYKe8MAAAAC/anime-anime-funny.gif"  />
-
 ###
 
 <div align="left">
@@ -41,6 +39,8 @@
 ###
 
 <br clear="both">
+
+<img align="right" height="150" src="https://media1.tenor.com/m/w5EFZpYKe8MAAAAC/anime-anime-funny.gif"  />
 
 ###
 
