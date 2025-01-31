@@ -96,6 +96,6 @@
 
 <br clear="both">
 
-<img margin-left="1rem" src="https://raw.githubusercontent.com/Kliiyu/Kliiyu/output/snake.svg" alt="Snake animation" />
+<img style="margin-left:1rem" src="https://raw.githubusercontent.com/Kliiyu/Kliiyu/output/snake.svg" alt="Snake animation" />
 
 ###
