@@ -27,6 +27,8 @@
   <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="ko-fi logo"  />
 </div>
 
+<img align="right" height="150" src="https://media1.tenor.com/m/w5EFZpYKe8MAAAAC/anime-anime-funny.gif"  />
+
 ###
 
 <br clear="both">
@@ -39,8 +41,6 @@
 ###
 
 <br clear="both">
-
-<img align="right" height="150" src="https://media1.tenor.com/m/w5EFZpYKe8MAAAAC/anime-anime-funny.gif"  />
 
 ###
 
